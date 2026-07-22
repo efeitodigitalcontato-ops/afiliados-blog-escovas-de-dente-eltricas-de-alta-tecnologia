@@ -1,0 +1,31 @@
+{
+  "theme": "escovas de dente elétricas de alta tecnologia",
+  "categories": [
+    {
+      "value": "escovas-de-dente-el-tricas-de-alta-tecnologia",
+      "label": "Escovas de dente elétricas de alta tecnologia"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Escovas de dente elétricas de alta tecnologia"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-escovas-de-dente-el-tricas-de-alta-tecnologia-1.jpg",
+      "label": "Escovas de dente elétricas de alta tecnologia Premium"
+    },
+    {
+      "value": "/recommended-escovas-de-dente-el-tricas-de-alta-tecnologia-2.jpg",
+      "label": "Escovas de dente elétricas de alta tecnologia Custo-Benefício"
+    },
+    {
+      "value": "/recommended-escovas-de-dente-el-tricas-de-alta-tecnologia-3.jpg",
+      "label": "Melhores Escovas de dente elétricas de alta tecnologia"
+    }
+  ]
+}
